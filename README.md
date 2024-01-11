@@ -8,6 +8,9 @@
 😄 I am actively expanding my skills<br>💬 Ask me about programming<br>🌱 I’m currently learning C programming language and Full Stack Development with Python🐍.
 
 
+![](https://komarev.com/ghpvc/?username=sulemanawais&color=orange&label=Profile+Views)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SulemanAwais) 
 
