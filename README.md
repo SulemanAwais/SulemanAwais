@@ -1,7 +1,8 @@
-<!--[![MasterHead](https://i.pinimg.com/originals/5f/8b/d3/5f8bd3ea65d785d8cafbc58d864453d4.gif)]()-->
 <p align="center">
   <img src="./gh-cover-high-res.gif" />
 </p>
+<!--[![MasterHead](https://i.pinimg.com/originals/5f/8b/d3/5f8bd3ea65d785d8cafbc58d864453d4.gif)]()-->
+
 ![gitartwork](gitartwork.svg)
 <h1 align="center">Hi 👋, I'm Suleman</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
