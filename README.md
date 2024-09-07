@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="250" src="https://github.com/MastooraTurkmen/MastooraTurkmen/assets/132576850/4f51607c-7b3b-445a-bd5e-320f11a81eed">
 
 # 💫 About Me:
-😄 I am currently learning AI and AWS.<br>💬 Ask me about programming<br>🌱 I develop web apps with Python🐍 using FastAPI⚡️ and Django.
+😄 I am currently learning AI and AWS.<br>💬 Ask me about Coding<br>🌱 I develop web apps with Python🐍 using FastAPI⚡️ and Django.
 
 
 ![](https://komarev.com/ghpvc/?username=sulemanawais&color=orange&label=Profile+Views)
