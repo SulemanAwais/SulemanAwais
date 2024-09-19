@@ -2,7 +2,7 @@
 <!--[![MasterHead](https://i.pinimg.com/originals/5f/8b/d3/5f8bd3ea65d785d8cafbc58d864453d4.gif)]()-->
 
 ![gitartwork](gitartwork.svg)
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer from Lahore, Pakistan</h3>
 <img align="right" alt="Coding" width="250" src="https://github.com/MastooraTurkmen/MastooraTurkmen/assets/132576850/4f51607c-7b3b-445a-bd5e-320f11a81eed">
 
 # 💫 About Me:
